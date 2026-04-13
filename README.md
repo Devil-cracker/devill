@@ -29,13 +29,13 @@ Designed to simulate real-world security testing tools with a clean terminal-sty
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/KalaiselvanS/devil-scanner-ui.git
+   git clone https://github.com/Devil-cracker/devill.git
    ```
 
 2. Navigate to the project folder:
 
    ```bash
-   cd devil-scanner-ui
+   cd devill
    ```
 
 3. Open the file:
