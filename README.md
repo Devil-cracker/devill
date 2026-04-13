@@ -29,7 +29,7 @@ Designed to simulate real-world security testing tools with a clean terminal-sty
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/devil-scanner-ui.git
+   git clone https://github.com/KalaiselvanS/devil-scanner-ui.git
    ```
 
 2. Navigate to the project folder:
