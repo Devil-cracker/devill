@@ -41,7 +41,7 @@ Designed to simulate real-world security testing tools with a clean terminal-sty
 3. Open the file:
 
    ```
-   index.html
+   devil_pro.html
    ```
 
 ---
