@@ -44,11 +44,7 @@ Designed to simulate real-world security testing tools with a clean terminal-sty
    devil_pro.html
    ```
 
----
-
-## 🌐 Live Demo
-
-Enable **GitHub Pages** in your repository settings to generate a live demo link.
+--
 
 ---
 
